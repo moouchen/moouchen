@@ -29,7 +29,7 @@
 <!-- Snake Animation -->
 <div align="center">
 
-  ![snake gif](https://raw.githubusercontent.com/moouchen/moouchen/main/dist/github-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/moouchen/moouchen/main/dist/github-snake-dark.svg)
 
 </div>
 
