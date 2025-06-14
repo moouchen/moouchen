@@ -1,47 +1,37 @@
+<!-- Intro -->
 <h1 align="center">Hi 👋, I'm Mohamed Amine Ouchen</h1>
 <h3 align="center">A passionate software developer from Morocco</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=moouchen&label=Profile%20views&color=0e75b6&style=flat" alt="moouchen" />
-</p>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moouchen&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moouchen&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moouchen&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
-- 🔭 I’m currently working on ♟️ **Chess Engine** (coming soon)
+<!-- Tech Stack -->
+<div align="center">
 
-- 🌱 I’m currently learning **advanced Python algorithms, Flutter animations, Firebase, and chess engine evaluation techniques.**
+## 💻 Tech Stack ⚡
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-- 👯 I’m looking to collaborate on **projects involving game development, AI, or mobile apps**
+</div>
 
-- 💬 Ask me about **Flutter • Dart • Python • HTML • CSS**
+<!-- Snake Animation -->
+<div align="center">
+  ![snake gif](https://github.com/moouchen/moouchen/blob/output/github-snake-dark.svg)
+</div>
 
-- 📫 How to reach me: **mamineouchen@icloud.com**
-
-- ⚡ Fun fact: I'm 15 years old and already building a full chess engine from scratch!
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moouchen&show_icons=true&locale=en&layout=compact" alt="moouchen" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moouchen&show_icons=true&locale=en" alt="moouchen" /></p>
-
----
-
-### 🐍 GitHub Contribution Snake Animation
-![snake gif](https://github.com/moouchen/moouchen/blob/output/github-contribution-grid-snake.svg)
-
----
+<!-- Visit Counter -->
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=moouchen&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
