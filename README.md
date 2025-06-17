@@ -4,12 +4,16 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moouchen&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" style="margin-bottom: 20px;" /> <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moouchen&theme=aura&hide_border=true" width="50%" style="margin-bottom: 20px;" /> <br />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=moouchen&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="55%" style="margin-bottom: 20px;" /> <br />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moouchen&theme=dark&hide_border=true&layout=compact&count_private=true" width="36%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moouchen&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
 </div>
+
+
 
 <!-- Tech Stack -->
 <div align="center">
